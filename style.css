@@ -1,0 +1,84 @@
+body {
+  background-color: #dce1d8;
+}
+
+.o > div {
+  display: flex;
+  font-size: 850px;
+  justify-content: center;
+  color: #479e95;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  top: -330px;
+
+
+}
+
+.o2 > div {
+  display: flex;
+  font-size: 850px;
+  justify-content: center;
+  position: relative;
+  top: -1530px;
+font-family: 'Poppins', sans-serif;
+color: #d92f8c;
+  mix-blend-mode: darken;
+}
+
+.artist {
+  display: flex;
+  font-size: 70px;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  flex-wrap: wrap;
+    top: -1850px;
+}
+
+.artist .name{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100vw;
+
+}
+.artist .spider {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+  width: 100vw;
+
+
+}
+
+.setting {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-size: 20px;
+
+
+}
+
+.setting .row1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-family: 'Roboto', sans-serif;
+  width: 100vw;
+
+
+}
+
+.setting .row2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-family: 'Roboto', sans-serif;
+  width: 100vw;
+
+
+
+
+}
